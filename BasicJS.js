@@ -566,3 +566,5 @@ function testEqual(val) {
 
 // Change this value to test
 testEqual(10);
+
+/*Just adding a comment to test branch merging.*/
